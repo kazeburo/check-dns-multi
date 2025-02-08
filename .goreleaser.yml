@@ -1,0 +1,20 @@
+builds:
+  - binary: check-dns-multi
+    main: ./cmd/check-dns-multi
+    ldflags:
+      - -s -w
+      - -X main.Version=v{{.Version}}
+    goos:
+      - linux
+    goarch:
+      - amd64
+      - arm64
+    env:
+      - CGO_ENABLED=0
+archives:
+  - format: zip
+    name_template: "{{ .ProjectName }}_{{ .Os }}_{{ .Arch }}"
+release:
+  github:
+    owner: kazeburo
+    name: check-dns-multi
