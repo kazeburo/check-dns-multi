@@ -12,7 +12,7 @@ require (
 
 require (
 	github.com/jessevdk/go-flags v1.6.1
-	github.com/mackerelio/checkers v0.2.0
+	github.com/mackerelio/checkers v0.2.1
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/mod v0.31.0 // indirect
 	golang.org/x/net v0.48.0 // indirect
