@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.5](https://github.com/kazeburo/check-dns-multi/compare/v0.0.4...v0.0.5) - 2026-04-09
+- Fix GoReleaser flags by @kazeburo in https://github.com/kazeburo/check-dns-multi/pull/12
+
 ## [v0.0.3](https://github.com/kazeburo/check-dns-multi/compare/v0.0.2...v0.0.3) - 2026-04-09
 - Add files via upload by @kazeburo in https://github.com/kazeburo/check-dns-multi/pull/5
 - ci: bump the dependencies group with 4 updates by @dependabot[bot] in https://github.com/kazeburo/check-dns-multi/pull/8
