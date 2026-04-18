@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.6](https://github.com/kazeburo/check-dns-multi/compare/v0.0.5...v0.0.6) - 2026-04-18
+- ci: bump Songmu/tagpr from 1.18.1 to 1.18.2 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/check-dns-multi/pull/14
+
 ## [v0.0.5](https://github.com/kazeburo/check-dns-multi/compare/v0.0.4...v0.0.5) - 2026-04-09
 - Fix GoReleaser flags by @kazeburo in https://github.com/kazeburo/check-dns-multi/pull/12
 
