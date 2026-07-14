@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.0.6](https://github.com/kazeburo/check-dns-multi/compare/v0.0.5...v0.0.6) - 2026-07-10
+
+- ci: bump Songmu/tagpr from 1.18.1 to 1.18.2 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/check-dns-multi/pull/14
+- ci: bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/kazeburo/check-dns-multi/pull/16
+- ci: bump the dependencies group across 1 directory with 4 updates by @dependabot[bot] in https://github.com/kazeburo/check-dns-multi/pull/19
+- Update dependabot.yml by @kazeburo in https://github.com/kazeburo/check-dns-multi/pull/20
+- go: bump the dependencies group with 5 updates by @dependabot[bot] in https://github.com/kazeburo/check-dns-multi/pull/21
+- ci: bump goreleaser/goreleaser-action from 7.2.2 to 7.2.3 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/check-dns-multi/pull/22
+- go: bump the dependencies group with 4 updates by @dependabot[bot] in https://github.com/kazeburo/check-dns-multi/pull/23
+
 ## [v0.0.5](https://github.com/kazeburo/check-dns-multi/compare/v0.0.4...v0.0.5) - 2026-04-09
 - Fix GoReleaser flags by @kazeburo in https://github.com/kazeburo/check-dns-multi/pull/12
 
